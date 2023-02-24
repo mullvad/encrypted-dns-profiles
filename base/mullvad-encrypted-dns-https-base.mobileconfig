@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>DNSSettings</key>
+        <dict>
+          <key>DNSProtocol</key>
+          <string>HTTPS</string>
+          <key>ServerAddresses</key>
+          <array>
+            <string>2a07:e340::2</string>
+            <string>194.242.2.2</string>
+          </array>
+          <key>ServerURL</key>
+          <string>https://doh.mullvad.net/dns-query</string>
+        </dict>
+        <key>PayloadDescription</key>
+        <string>Mullvad Encrypted DNS base (HTTPS)</string>
+        <key>PayloadDisplayName</key>
+        <string>Mullvad Encrypted DNS base (HTTPS)</string>
+        <key>PayloadIdentifier</key>
+        <string>com.apple.dnsSettings.managed.572D1A65-69CB-4859-940A-79D25DFC9C98</string>
+        <key>PayloadType</key>
+        <string>com.apple.dnsSettings.managed</string>
+        <key>PayloadUUID</key>
+        <string>572D1A65-69CB-4859-940A-79D25DFC9C98</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>ProhibitDisablement</key>
+        <false/>
+      </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>Mullvad Encrypted DNS base (HTTPS)</string>
+    <key>PayloadDisplayName</key>
+    <string>Mullvad Encrypted DNS base (HTTPS)</string>
+    <key>PayloadIdentifier</key>
+    <string>net.mullvad.encrypted.dns.https.base</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>33B84ACF-ACFB-408B-8281-C49E169BD563</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+  </dict>
+</plist>

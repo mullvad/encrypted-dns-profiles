@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>DNSSettings</key>
+        <dict>
+          <key>DNSProtocol</key>
+          <string>TLS</string>
+          <key>ServerAddresses</key>
+          <array>
+            <string>2a07:e340::3</string>
+            <string>194.242.2.3</string>
+          </array>
+          <key>ServerURL</key>
+          <string>https://adblock.doh.mullvad.net/dns-query</string>
+        </dict>
+        <key>PayloadDescription</key>
+        <string>Mullvad Encrypted DNS with Adblocking (TLS)</string>
+        <key>PayloadDisplayName</key>
+        <string>Mullvad Encrypted DNS with Adblocking (TLS)</string>
+        <key>PayloadIdentifier</key>
+        <string>com.apple.dnsSettings.managed.FA7BFEE8-2876-40C0-903D-7D351EE31CC5</string>
+        <key>PayloadType</key>
+        <string>com.apple.dnsSettings.managed</string>
+        <key>PayloadUUID</key>
+        <string>FA7BFEE8-2876-40C0-903D-7D351EE31CC5</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>ProhibitDisablement</key>
+        <false/>
+      </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>Mullvad Encrypted DNS with Adblocking (TLS)</string>
+    <key>PayloadDisplayName</key>
+    <string>Mullvad Encrypted DNS with Adblocking (TLS)</string>
+    <key>PayloadIdentifier</key>
+    <string>net.mullvad.encrypted.dns.tls.adblock</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>C5383D6B-6B86-4742-B4F3-D70F105E5120</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+  </dict>
+</plist>
