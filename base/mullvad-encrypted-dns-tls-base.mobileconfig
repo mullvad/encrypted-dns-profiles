@@ -14,8 +14,8 @@
             <string>2a07:e340::2</string>
             <string>194.242.2.2</string>
           </array>
-          <key>ServerURL</key>
-          <string>https://doh.mullvad.net/dns-query</string>
+          <key>ServerName</key>
+          <string>doh.mullvad.net</string>
         </dict>
         <key>PayloadDescription</key>
         <string>Mullvad Encrypted DNS base (TLS)</string>

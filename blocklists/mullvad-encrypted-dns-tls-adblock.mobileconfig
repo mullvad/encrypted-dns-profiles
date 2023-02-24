@@ -14,8 +14,8 @@
             <string>2a07:e340::3</string>
             <string>194.242.2.3</string>
           </array>
-          <key>ServerURL</key>
-          <string>https://adblock.doh.mullvad.net/dns-query</string>
+          <key>ServerName</key>
+          <string>adblock.doh.mullvad.net</string>
         </dict>
         <key>PayloadDescription</key>
         <string>Mullvad Encrypted DNS with Adblocking (TLS)</string>
