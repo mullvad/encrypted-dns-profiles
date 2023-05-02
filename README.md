@@ -2,7 +2,15 @@
 
 This repository contains macOS and iOS .mobileconfig profiles to set up your device(s) to use our encrypted DNS service.
 
-Anyone, regardless of whether you are a customer of Mullvad VPN or not, can use this service. There are options for HTTPS or TLS available, and for "base" which is encrypted DNS without any content filtering, or "blocking" which specifies content filtering based on type.
+Anyone, regardless of whether you are a customer of Mullvad VPN or not, can use this service. There are options for HTTPS or TLS available.
+
+Encrypted DNS is free for everyone.
+
+## Features
+
+- Base: Encrypted DNS without any content filtering
+- Adblock: Encrypted DNS which includes Ad-blocking, Tracker and Malware blocking.
+- Extended: Encrypted DNS which includes Ad-blocking, Tracker blocking, Malware blocking and Social Media blocking
 
 The content filtering lists are [what is found here](https://github.com/mullvad/dns-blocklists)
 
