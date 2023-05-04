@@ -8,9 +8,11 @@ Encrypted DNS is free for everyone.
 
 ## Features
 
-- Base: Encrypted DNS without any content filtering
-- Adblock: Encrypted DNS which includes Ad-blocking, Tracker and Malware blocking.
-- Extended: Encrypted DNS which includes Ad-blocking, Tracker blocking, Malware blocking and Social Media blocking
+- Vanilla (vanilla/): Encrypted DNS, no blocking. Currently pending signing (not committed here yet / dns.mullvad.net)
+- Adblock (blocklists/): Encrypted DNS which includes Ad-blocking and Tracker blocking (adblock.dns.mullvad.net)
+- Base (base/): Encrypted DNS which includes Ad-blocking, Tracker, and Malware blocking (pending signing, not committed here yet / base.dns.mullvad.net)
+- Extended (extended/): Encrypted DNS which includes Ad-blocking, Tracker, Malware and Social Media blocking
+- All (all/): Encrypted DNS which includes Ad-blocking, Tracker, Malware, Adult Content, Gambling and Social Media blocking (pending signing, not committed here yet / all.dns.mullvad.net)
 
 The content filtering lists are [what is found here](https://github.com/mullvad/dns-blocklists)
 
