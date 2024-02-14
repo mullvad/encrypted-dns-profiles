@@ -11,6 +11,7 @@ Anyone, regardless of whether you are a customer of Mullvad VPN or not, can use 
 - Vanilla (vanilla/): Encrypted DNS, no blocking (dns.mullvad.net)
 - Adblock (blocklists/): Encrypted DNS which includes Ad-blocking and Tracker blocking (adblock.dns.mullvad.net)
 - Base (base/): Encrypted DNS which includes Ad-blocking, Tracker, and Malware blocking (base.dns.mullvad.net)
+- Family (family/): Encrypted DNS which includes Ad-blocking, Tracker, Malware, and Adult content blocking (family.dns.mullvad.net)
 - Extended (extended/): Encrypted DNS which includes Ad-blocking, Tracker, Malware and Social Media blocking
 - All (all/): Encrypted DNS which includes Ad-blocking, Tracker, Malware, Adult Content, Gambling and Social Media blocking (all.dns.mullvad.net)
 
