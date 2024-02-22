@@ -8,7 +8,7 @@ Anyone, regardless of whether you are a customer of Mullvad VPN or not, can use 
 
 ## Features
 
-- Vanilla (vanilla/): Encrypted DNS, no blocking (dns.mullvad.net)
+- Vanilla (vanilla/): Encrypted DNS, no blocking (dns.mullvad.net). TLS removed temporarily whilst it gets updated.
 - Adblock (blocklists/): Encrypted DNS which includes Ad-blocking and Tracker blocking (adblock.dns.mullvad.net)
 - Base (base/): Encrypted DNS which includes Ad-blocking, Tracker, and Malware blocking (base.dns.mullvad.net)
 - Family (family/): Encrypted DNS which includes Ad-blocking, Tracker, Malware, and Adult content blocking (family.dns.mullvad.net)
