@@ -1,5 +1,9 @@
 # encrypted-dns-profiles
 
+> [!WARNING]
+> Our public encrypted DNS servers will be shut down on November 2, 2026. Read more about this on our [blog](https://mullvad.net/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead)
+> This means our .mobileconfig files will stop working and no longer be supported.
+
 This repository contains macOS and iOS .mobileconfig profiles to set up your device(s) to use our encrypted DNS service.
 
 Anyone, regardless of whether you are a customer of Mullvad VPN or not, can use this service. There are options for HTTPS or TLS available.
